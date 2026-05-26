@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Louischan.aternos.me",
-    "port": 50969,
+    "ip": "mouads320.aternos.me",
+    "port": 11113
+    ,
     "version": "26.1.2"
   },
   "position": {
